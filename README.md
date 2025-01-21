@@ -10,7 +10,6 @@ ginar o futuro. Mais do que paixões, elas são parte essencial de quem sou, uma
 bash: O: command not found
 @Luchionn ➜ /workspaces/Biografia (main) $ 
 @Luchionn ➜ /workspaces/Biografia (main) $ No fundo, arquitetura, arte e história são como lentes através das quais enxergo o mundo. Elas me ensinam a valorizar o passado, a compreender o presente e a imaginar o futuro. Mais do que paixões, elas são parte essencial de quem sou, uma fonte inesgotável de aprendizado e encantamento.
-bash: No: command not found
 @Luchionn ➜ /workspaces/Biografia (main) $ 
 @Luchionn ➜ /workspaces/Biografia
 @Luchionn ➜ /workspaces/Biografia
